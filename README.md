@@ -6,7 +6,7 @@ This is an unofficial Heroku buildpack for
 ## Usage
 
 ### Binary
-Automaticly downloads most newest binary that will placed in `bin/grafana-agent`
+Automaticly downloads newest binary that will placed in `bin/grafana-agent`
 
 ### Config
 Your config file should be placed into the root as `config/grafana-agent.yml`.
